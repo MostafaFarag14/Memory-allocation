@@ -1,0 +1,18 @@
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\bin\Debug\GUI.exe.config
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\bin\Debug\GUI.exe
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\bin\Debug\GUI.pdb
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\obj\Debug\GUI.Form1.resources
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\obj\Debug\GUI.Properties.Resources.resources
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\obj\Debug\GUI.exe
+c:\users\mostafa\documents\visual studio 2012\Projects\Allocation\GUI\obj\Debug\GUI.pdb
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\bin\Debug\GUI.exe.config
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\obj\Debug\GUI.exe
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\obj\Debug\GUI.pdb
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\bin\Debug\GUI.exe
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\bin\Debug\GUI.pdb
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Farag\Desktop\MemoryAssignment\MemoryAssignment\Allocation\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
